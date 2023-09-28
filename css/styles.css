@@ -32,7 +32,7 @@ body {
   width: 100%;
   height: 100%;
   transform: rotate(4deg);
-  background-color: #ff4359;
+  background-color: #5564eb;
   position: absolute;
   overflow: hidden;
   top: 0;
@@ -71,7 +71,7 @@ body {
   -ms-transform: rotate(1deg);
   -o-transform: rotate(1deg);
   transform: rotate(1deg);
-  background-color: #ff4359;
+  background-color: #5564eb;
   position: absolute;
   overflow: hidden;
   top: -16px;
@@ -123,7 +123,7 @@ body {
   -moz-border-radius: 50%;
   border-radius: 50%;
   background-color: #292929;
-  background-image: url("assets/img/gian.jpg");
+  background-image: url("../assets/img/gian.jpg");
   background-repeat: no-repeat;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -194,7 +194,7 @@ body {
   content: "";
   width: 54px;
   height: 17px;
-  background-color: #ff4359;
+  background-color: #7c88f2;
   position: absolute;
   top: 54px;
   left: 52px;
@@ -204,7 +204,7 @@ body {
   content: "";
   width: 54px;
   height: 17px;
-  background-color: #ff4359;
+  background-color: #7c88f2;
   position: absolute;
   top: 70px;
   left: 29px;
@@ -214,7 +214,7 @@ body {
   content: "";
   width: 51px;
   height: 17px;
-  background-color: #ff4359;
+  background-color: #7c88f2;
   position: absolute;
   top: 140px;
   left: 269px;
@@ -224,7 +224,7 @@ body {
   content: "";
   width: 26px;
   height: 17px;
-  background-color: #ff4359;
+  background-color: #7c88f2;
   position: absolute;
   top: 140px;
   left: 237px;
@@ -234,7 +234,7 @@ body {
   content: "";
   width: 84px;
   height: 21px;
-  background-color: #ff4359;
+  background-color: #7c88f2;
   position: absolute;
   top: 181px;
   left: 222px;
@@ -307,7 +307,7 @@ body {
 }
 
 .cv-base section aside .aside-parts ul li h3 {
-  color: #ff4359;
+  color: #5564eb;
 }
 
 .cv-base section aside .aside-parts ul li p {
@@ -582,7 +582,7 @@ body {
 
 .cv-base section article #article01 .groups .lines ul li .icons i {
   font-size: 14px;
-  color: #ff4359;
+  color: #5564eb;
 }
 
 /*نهاية تنسيقات الايقونات*/
@@ -748,7 +748,7 @@ body {
   padding: 0 0 3px 0;
   text-align: left;
   font-size: 15px;
-  color: #ff4359;
+  color: #5564eb;
 }
 
 .cv-base section article #article02 ul li p:first-of-type {
@@ -916,7 +916,7 @@ body {
   -ms-transform: rotate(-16deg);
   -o-transform: rotate(-16deg);
   transform: rotate(-16deg);
-  background-color: #ff4359;
+  background-color: #5564eb;
   position: absolute;
   bottom: -106px;
   left: 55px;
@@ -1010,7 +1010,7 @@ body {
 
 .cv-base .front footer .foot-words ul li .icons i {
   font-size: 16px;
-  color: #ff4359;
+  color: #848eed;
 }
 
 /*نهاية تنسيقات الايقونات*/

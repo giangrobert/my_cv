@@ -6,15 +6,15 @@ $(document).ready(function()
 		
 		cursorcolor:"#212b37",
 		cursorborder:"5px solid #212b37",
-		cursorborderradius:"0",
+		cursorborderradius:"50px",
 		scrollspeed:65
 	})
 
 	$("ul, div").filter("#scrolls").niceScroll({
 		
-		cursorcolor:"#ff4359",
-		cursorborder:"2px solid #ff4359",
-		cursorborderradius:"0",
+		cursorcolor:"#5564eb",
+		cursorborder:"2px solid #5564eb",
+		cursorborderradius:"50px",
 		scrollspeed:65
 	})
 	
